@@ -1,4 +1,4 @@
-# MoS2_Analysis
+# mos2-analysis
 This project used machine learning to analyze the temperature dependent features of MoS2 thin film micrigraphs. 
 
 # Objective
