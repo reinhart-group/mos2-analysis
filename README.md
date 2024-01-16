@@ -2,7 +2,7 @@
 This project used machine learning to analyze the temperature dependent features of MoS2 thin film micrigraphs. 
 
 # Objective
-AFM images were classified according to their growth temperature and the features associated with the growth temperatures were examined using class activation map (CAM) and occlusion attribution.
+To classify AFM images according to their growth temperature and to determine the features associated with the growth temperatures using class activation map (CAM) and occlusion attribution.
 
 # Data
 Processed data for this project can be found in https://doi.org/10.5281/zenodo.
