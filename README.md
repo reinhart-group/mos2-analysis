@@ -20,11 +20,15 @@ edu/list/data/vdn4yTd70vdo
 - plots obtained : Result
 . 
 # To cite
-@article{moses2023quantitative,
-  title={Quantitative Analysis of MoS $ \_2 $ Thin Film Micrographs with Machine Learning},
+@article{moses2024quantitative,
+  title={Quantitative analysis of MoS2 thin film micrographs with machine learning},
   author={Moses, Isaiah A and Reinhart, Wesley F},
-  journal={arXiv preprint arXiv:2310.07816},
-  year={2023}
+  journal={Materials Characterization},
+  volume={209},
+  pages={113701},
+  year={2024},
+  publisher={Elsevier}
 }
+
 - the version of the code used for the paper is available at https://zenodo.org/records/10534837
 
