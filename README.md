@@ -5,8 +5,7 @@ This project used machine learning to analyze the temperature dependent features
 To classify AFM images according to their growth temperature and to determine the features associated with the growth temperatures using class activation map (CAM) and occlusion attribution.
 
 # Data
-Processed data for this project can be found in https://doi.org/10.5281/zenodo.
-8432222
+Processed data for this project can be found in https://zenodo.org/records/8432222
 Raw data can be found in https:https://m4-2dcc.vmhost.psu.
 edu/list/data/vdn4yTd70vdo
 
